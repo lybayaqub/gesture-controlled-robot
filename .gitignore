@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Dataset folder (Do not upload thousands of raw images)
+leapGestRecog/
+*.zip
+*.tar.gz
+
+# Large Model Weights (Uncomment if not using Git LFS)
+# *.h5
+
+# Local IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
